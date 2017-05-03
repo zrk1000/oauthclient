@@ -1,1 +1,12 @@
-/target/
+.idea
+workspace.xml
+target
+*.iml
+logs
+dependency-reduced-pom.xml
+.classpath
+.project
+.settings
+.mvn
+mvnw
+mvnw.cmd
